@@ -38,6 +38,5 @@ Using **surface-hopping dynamics** and **SOAP-based molecular representations**,
 
 ---
 
-## 🧩 Repository Structure
 
 
