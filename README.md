@@ -8,7 +8,7 @@ This repository contains the data processing and analysis workflow used in the s
 > DOI: [10.1039/d4cp03947e](https://doi.org/10.1039/d4cp03947e)
 
 The project investigates how conformational diversity in the pyrene dimer governs its excimer fluorescence.  
-By combining **TDDFT-based excited-state dynamics** with **unsupervised machine learning**, we reveal distinct structural motifs that dominate the emission process.
+By combining **TDDFT-based excited-state optimization** with **unsupervised machine learning**, we reveal distinct structural motifs that dominate the emission process.
 
 ---
 
